@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>Register Form</title>
+</head>
+<body>
+<form>
+<table>
+<tr>
+<td>
+Name:
+</td>
+<td>
+<input type ="text" placeholder="Name" name="">
+</td>
+</tr>
+
+<tr>
+<td>
+Gender :
+</td>
+<td>
+<input type ="radio" name="Gender">Male
+<input type="radio" name= "Gender">Female
+</td>
+</tr>
+<tr>
+<td>
+
+
+
+<tr>
+<td>
+
+Father Name:
+</td>
+<td>
+<input type ="text" placeholder="Father Name" name="">
+</td>
+</tr>
+
+
+<tr>
+<td>
+
+
+
+Mother Name:
+</td>
+<td>
+<input type ="text" placeholder="Mother Name""" name="">
+</td>
+</tr>
+
+
+
+DoB<br>
+<select name="month">
+<option value="month">Month</option>
+<option value="JANUARY">JANUARY</option>
+<option value="FEBRUARY">FEBRUARY</option>
+<option value="March">March</option>
+<option value="April">April</option>
+</select>
+<select name="days">
+<option value="days">Days</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+
+<select name="Year">
+<option value="year">Year</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+</select>
+
+</table>
+</form>
+</body>
+</html>
+
+
+
+
+
