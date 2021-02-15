@@ -1,0 +1,51 @@
+<h3>Contact Information</h3>
+
+<tr>
+<td>
+
+
+
+Present Address:
+</td>
+<td>
+<input type ="text" placeholder="Present Address" name="">
+</td>
+</tr>
+
+
+<tr>
+<td>
+
+
+
+Permanent Address:
+</td>
+<td>
+<input type ="text" placeholder="Permanent Address" name="">
+</td>
+</tr>
+
+<tr>
+<td>
+Email:
+</td>
+<td>
+<input type="mail"placeholder="Email"name="">
+</td>
+</tr>
+
+<tr>
+<td>
+phone no:
+</td>
+<td>
+<select>
+<option>977</option>
+<option>976</option>
+<option>978</option>
+<option>979</option>
+</select>
+<input type="Phone" placeholder="0185**** name="">
+
+</td>
+</tr>
