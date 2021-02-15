@@ -1,0 +1,47 @@
+<h3>Academic Information</h3>
+
+
+
+SSC Institution:
+</td>
+<td>
+<input type ="text" placeholder="name" name="">
+</td>
+</tr>
+
+<tr>
+<td>
+
+
+
+HSC Institution:
+</td>
+<td>
+<input type ="text" placeholder="name" name="">
+</td>
+</tr>
+
+<tr>
+<td>
+
+
+
+SSC year:
+</td>
+<td>
+<input type ="number " placeholder="year" name="">
+</td>
+</tr>
+
+<tr>
+<td>
+
+
+
+HSC year:
+</td>
+<td>
+<input type ="number" placeholder="name" name="">
+</td>
+</tr>
+
