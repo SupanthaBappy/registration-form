@@ -3,6 +3,7 @@
 <title>Register Form</title>
 </head>
 <body>
+<h1>Basic Information</h1>
 <form>
 <table>
 <tr>
